@@ -28,3 +28,4 @@ git remote set-url origin https://github.com/OuYangLQ/Student-Database.git
 git branch -M main
 git push -u origin main
 echo hello SQL
+psql --username=freecodecamp --dbname=postgres
