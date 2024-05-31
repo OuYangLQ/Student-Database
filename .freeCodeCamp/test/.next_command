@@ -193,3 +193,7 @@ __vsc_original_prompt_command=${PROMPT_COMMAND:-}
 cp students.csv students_test.csv
 vim students_test.csv
 vim students_test.csv
+vim insert_data.sh
+vim insert_data.sh
+vim insert_data.sh
+vim insert_data.sh
