@@ -74,3 +74,4 @@ dclare -p IFS
 declare -p IFS
 vim insert_data.sh
 ./insert_data.sh
+vim insert_data.sh
