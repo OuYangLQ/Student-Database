@@ -58,3 +58,10 @@ touch insert_data.sh
 chmod +x insert_data.sh
 vim insert_data.sh
 vim insert_data.sh
+cat courses.csv
+vim insert_data.sh
+cat courses.csv
+cat courses.csv > insert_data.sh
+vim insert_data.sh
+cat courses.csv >> insert_data.sh
+vim insert_data.sh
