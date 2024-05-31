@@ -65,3 +65,5 @@ cat courses.csv > insert_data.sh
 vim insert_data.sh
 cat courses.csv >> insert_data.sh
 vim insert_data.sh
+clear
+./insert_data.sh
